@@ -1,9 +1,11 @@
 Initial code before release
-Dev1 code added
 <<<<<<< HEAD
+Dev1 code added
 Dev2 code added
 Dev2 new function added
 dev3 code is added
-=======
 Dev1 new function added()
->>>>>>> dev1
+=======
+dev3 code is added
+dev3 new function is added()
+>>>>>>> dev3

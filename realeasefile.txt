@@ -1,2 +1,3 @@
 Initial code before release
-dev2 code is added
+dev3 code is added
+dev3 new function is added()
